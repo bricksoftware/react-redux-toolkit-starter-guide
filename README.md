@@ -4,9 +4,6 @@
 
 <p align="center">Simple Getting Started Guide for developing with react, redux toolkit and typescript</p>
 
-<h2 align="center"><img src="./src/icons/screenshot.jpg" alt="screenshot bcontact" /></h2>
-DEMO => https://mallt-bcontact.netlify.app/
-
 ## Required Settings
 
 ### **Requirements**
